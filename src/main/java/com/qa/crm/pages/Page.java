@@ -3,7 +3,7 @@ package com.qa.crm.pages;
 public class Page {
 	
 	public Page() {
-		System.out.println("Page init");
+		System.out.println("Page initialization");
 	}
 
 }
